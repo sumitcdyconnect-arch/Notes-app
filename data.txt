@@ -1,6 +1,3 @@
 Title: Afteer working
 Content: This is test for bug of something
 ---
-Title: dsf
-Content: adf
----
