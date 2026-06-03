@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    <button onclick="window.location.href='/createnote'">Create Note</button>
+    <button onclick="window.location.href='/displaynote'">Display Notes</button>
+    <a href="/logout"><button>Logout</button></a>
+
+
+    <h1>Welcome, {{ username }}!</h1>
+
+{% endblock %}
